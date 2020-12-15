@@ -4,3 +4,5 @@ puts "What a nutritous meal!"
 puts meal
 return meal
 end
+
+meal_choice
